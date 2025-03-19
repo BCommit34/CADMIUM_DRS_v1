@@ -1,0 +1,364 @@
+time;model_id;model_name;port_name;data
+[33m0;1;Dynamic Routing System;;{ Completed routes : 0}[0m
+[33m0;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[33m0;3;1st Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[33m0;4;2nd Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[33m0;5;3rd Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[33m0;6;4th Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[33m0;1;Dynamic Routing System;;{ Completed routes : 0}[0m
+[33m0;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m0;3;1st Truck;out_updatel_truck;0[0m
+[32m0;3;1st Truck;out_updatew_truck;0[0m
+[32m0;3;1st Truck;out_arrival_station;1[0m
+[32m0;3;1st Truck;out_updatet;0[0m
+[33m0;3;1st Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[32m0;4;2nd Truck;out_updatel_truck;0[0m
+[32m0;4;2nd Truck;out_updatew_truck;0[0m
+[32m0;4;2nd Truck;out_arrival_station;1[0m
+[32m0;4;2nd Truck;out_updatet;0[0m
+[33m0;4;2nd Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[32m0;5;3rd Truck;out_updatel_truck;0[0m
+[32m0;5;3rd Truck;out_updatew_truck;0[0m
+[32m0;5;3rd Truck;out_arrival_station;1[0m
+[32m0;5;3rd Truck;out_updatet;0[0m
+[33m0;5;3rd Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+[32m0;6;4th Truck;out_updatel_truck;0[0m
+[32m0;6;4th Truck;out_updatew_truck;0[0m
+[32m0;6;4th Truck;out_arrival_station;1[0m
+[32m0;6;4th Truck;out_updatet;0[0m
+[33m0;6;4th Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 0, Weight: 0}[0m
+Completed pts : 4
+[32m0;1;Dynamic Routing System;out_new_route_1;1[0m
+[32m0;1;Dynamic Routing System;out_new_route_2;204[0m
+[32m0;1;Dynamic Routing System;out_new_route_3;398[0m
+[32m0;1;Dynamic Routing System;out_new_route_4;608[0m
+[33m0;1;Dynamic Routing System;;{ Completed routes : 0}[0m
+[33m0;3;1st Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 1, Weight: 0}[0m
+[33m0;4;2nd Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 204, Weight: 0}[0m
+[33m0;5;3rd Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 398, Weight: 0}[0m
+[33m0;6;4th Truck;; Truck : { Time Elapsed - 0.000277778 hours , Location - 608, Weight: 0}[0m
+[33m0.2;1;Dynamic Routing System;;{ Completed routes : 0}[0m
+[33m0.2;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m0.2;3;1st Truck;out_updatel_truck;72[0m
+[32m0.2;3;1st Truck;out_updatew_truck;0[0m
+[32m0.2;3;1st Truck;out_arrival_station;1[0m
+[32m0.2;3;1st Truck;out_updatet;0.2[0m
+[33m0.2;3;1st Truck;; Truck : { Time Elapsed - 0.817332 hours , Location - 1, Weight: 153.479}[0m
+[32m0.2;4;2nd Truck;out_updatel_truck;225[0m
+[32m0.2;4;2nd Truck;out_updatew_truck;0[0m
+[32m0.2;4;2nd Truck;out_arrival_station;1[0m
+[32m0.2;4;2nd Truck;out_updatet;0.2[0m
+[33m0.2;4;2nd Truck;; Truck : { Time Elapsed - 0.243815 hours , Location - 204, Weight: 46.8962}[0m
+[32m0.2;5;3rd Truck;out_updatel_truck;414[0m
+[32m0.2;5;3rd Truck;out_updatew_truck;0[0m
+[32m0.2;5;3rd Truck;out_arrival_station;1[0m
+[32m0.2;5;3rd Truck;out_updatet;0.2[0m
+[33m0.2;5;3rd Truck;; Truck : { Time Elapsed - 0.186485 hours , Location - 398, Weight: 36.238}[0m
+[32m0.2;6;4th Truck;out_updatel_truck;609[0m
+[32m0.2;6;4th Truck;out_updatew_truck;0[0m
+[32m0.2;6;4th Truck;out_arrival_station;1[0m
+[32m0.2;6;4th Truck;out_updatet;0.2[0m
+[33m0.2;6;4th Truck;; Truck : { Time Elapsed - 0.0140153 hours , Location - 608, Weight: 4.26329}[0m
+Completed pts : 75
+[32m0.4;1;Dynamic Routing System;out_new_route_1;1[0m
+[32m0.4;1;Dynamic Routing System;out_new_route_2;73[0m
+[32m0.4;1;Dynamic Routing System;out_new_route_3;80[0m
+[32m0.4;1;Dynamic Routing System;out_new_route_4;103[0m
+[33m0.4;1;Dynamic Routing System;;{ Completed routes : 113}[0m
+[33m0.4;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m0.4;3;1st Truck;out_updatel_truck;72[0m
+[32m0.4;3;1st Truck;out_updatew_truck;153.479[0m
+[32m0.4;3;1st Truck;out_arrival_station;1[0m
+[32m0.4;3;1st Truck;out_updatet;0.2[0m
+[33m0.4;3;1st Truck;; Truck : { Time Elapsed - 1.63439 hours , Location - 1, Weight: 306.957}[0m
+[32m0.4;4;2nd Truck;out_updatel_truck;225[0m
+[32m0.4;4;2nd Truck;out_updatew_truck;46.8962[0m
+[32m0.4;4;2nd Truck;out_arrival_station;1[0m
+[32m0.4;4;2nd Truck;out_updatet;0.2[0m
+[33m0.4;4;2nd Truck;; Truck : { Time Elapsed - 0.487352 hours , Location - 73, Weight: 93.7924}[0m
+[32m0.4;5;3rd Truck;out_updatel_truck;414[0m
+[32m0.4;5;3rd Truck;out_updatew_truck;36.238[0m
+[32m0.4;5;3rd Truck;out_arrival_station;1[0m
+[32m0.4;5;3rd Truck;out_updatet;0.2[0m
+[33m0.4;5;3rd Truck;; Truck : { Time Elapsed - 0.372693 hours , Location - 80, Weight: 72.476}[0m
+[32m0.4;6;4th Truck;out_updatel_truck;609[0m
+[32m0.4;6;4th Truck;out_updatew_truck;4.26329[0m
+[32m0.4;6;4th Truck;out_arrival_station;1[0m
+[32m0.4;6;4th Truck;out_updatet;0.2[0m
+[33m0.4;6;4th Truck;; Truck : { Time Elapsed - 0.0277528 hours , Location - 103, Weight: 8.52658}[0m
+Completed pts : 75
+[32m0.6;1;Dynamic Routing System;out_new_route_1;232[0m
+[32m0.6;1;Dynamic Routing System;out_new_route_2;301[0m
+[32m0.6;1;Dynamic Routing System;out_new_route_3;718[0m
+[32m0.6;1;Dynamic Routing System;out_new_route_4;296[0m
+[33m0.6;1;Dynamic Routing System;;{ Completed routes : 226}[0m
+[33m0.6;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m0.6;3;1st Truck;out_updatel_truck;72[0m
+[32m0.6;3;1st Truck;out_updatew_truck;306.957[0m
+[32m0.6;3;1st Truck;out_arrival_station;1[0m
+[32m0.6;3;1st Truck;out_updatet;0.2[0m
+[33m0.6;3;1st Truck;; Truck : { Time Elapsed - 2.45144 hours , Location - 232, Weight: 460.436}[0m
+[32m0.6;4;2nd Truck;out_updatel_truck;79[0m
+[32m0.6;4;2nd Truck;out_updatew_truck;93.7924[0m
+[32m0.6;4;2nd Truck;out_arrival_station;1[0m
+[32m0.6;4;2nd Truck;out_updatet;0.2[0m
+[33m0.6;4;2nd Truck;; Truck : { Time Elapsed - 0.558512 hours , Location - 301, Weight: 108.714}[0m
+[32m0.6;5;3rd Truck;out_updatel_truck;102[0m
+[32m0.6;5;3rd Truck;out_updatew_truck;72.476[0m
+[32m0.6;5;3rd Truck;out_arrival_station;1[0m
+[32m0.6;5;3rd Truck;out_updatet;0.2[0m
+[33m0.6;5;3rd Truck;; Truck : { Time Elapsed - 0.626262 hours , Location - 718, Weight: 121.504}[0m
+[32m0.6;6;4th Truck;out_updatel_truck;103[0m
+[32m0.6;6;4th Truck;out_updatew_truck;8.52658[0m
+[32m0.6;6;4th Truck;out_arrival_station;1[0m
+[32m0.6;6;4th Truck;out_updatet;0.2[0m
+[33m0.6;6;4th Truck;; Truck : { Time Elapsed - 0.0300376 hours , Location - 296, Weight: 10.6582}[0m
+Completed pts : 103
+[32m0.8;1;Dynamic Routing System;out_new_route_1;230[0m
+[32m0.8;1;Dynamic Routing System;out_new_route_2;342[0m
+[32m0.8;1;Dynamic Routing System;out_new_route_3;434[0m
+[32m0.8;1;Dynamic Routing System;out_new_route_4;751[0m
+[33m0.8;1;Dynamic Routing System;;{ Completed routes : 329}[0m
+[33m0.8;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m0.8;3;1st Truck;out_updatel_truck;249[0m
+[32m0.8;3;1st Truck;out_updatew_truck;460.436[0m
+[32m0.8;3;1st Truck;out_arrival_station;1[0m
+[32m0.8;3;1st Truck;out_updatet;0.2[0m
+[33m0.8;3;1st Truck;; Truck : { Time Elapsed - 2.64942 hours , Location - 230, Weight: 498.805}[0m
+[32m0.8;4;2nd Truck;out_updatel_truck;308[0m
+[32m0.8;4;2nd Truck;out_updatew_truck;108.714[0m
+[32m0.8;4;2nd Truck;out_arrival_station;1[0m
+[32m0.8;4;2nd Truck;out_updatet;0.2[0m
+[33m0.8;4;2nd Truck;; Truck : { Time Elapsed - 0.641697 hours , Location - 342, Weight: 125.767}[0m
+[32m0.8;5;3rd Truck;out_updatel_truck;726[0m
+[32m0.8;5;3rd Truck;out_updatew_truck;121.504[0m
+[32m0.8;5;3rd Truck;out_arrival_station;1[0m
+[32m0.8;5;3rd Truck;out_updatet;0.2[0m
+[33m0.8;5;3rd Truck;; Truck : { Time Elapsed - 0.72035 hours , Location - 434, Weight: 140.689}[0m
+[32m0.8;6;4th Truck;out_updatel_truck;301[0m
+[32m0.8;6;4th Truck;out_updatew_truck;10.6582[0m
+[32m0.8;6;4th Truck;out_arrival_station;1[0m
+[32m0.8;6;4th Truck;out_updatet;0.2[0m
+[33m0.8;6;4th Truck;; Truck : { Time Elapsed - 0.0897393 hours , Location - 751, Weight: 23.4481}[0m
+Completed pts : 103
+[32m1;1;Dynamic Routing System;out_new_route_1;299[0m
+[32m1;1;Dynamic Routing System;out_new_route_2;694[0m
+[32m1;1;Dynamic Routing System;out_new_route_3;621[0m
+[32m1;1;Dynamic Routing System;out_new_route_4;376[0m
+[33m1;1;Dynamic Routing System;;{ Completed routes : 432}[0m
+[33m1;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m1;3;1st Truck;out_updatel_truck;247[0m
+[32m1;3;1st Truck;out_updatew_truck;498.805[0m
+[32m1;3;1st Truck;out_arrival_station;1[0m
+[32m1;3;1st Truck;out_updatet;0.2[0m
+[33m1;3;1st Truck;; Truck : { Time Elapsed - 2.84739 hours , Location - 299, Weight: 537.175}[0m
+[32m1;4;2nd Truck;out_updatel_truck;344[0m
+[32m1;4;2nd Truck;out_updatew_truck;125.767[0m
+[32m1;4;2nd Truck;out_arrival_station;1[0m
+[32m1;4;2nd Truck;out_updatet;0.2[0m
+[33m1;4;2nd Truck;; Truck : { Time Elapsed - 0.666937 hours , Location - 694, Weight: 132.162}[0m
+[32m1;5;3rd Truck;out_updatel_truck;445[0m
+[32m1;5;3rd Truck;out_updatew_truck;140.689[0m
+[32m1;5;3rd Truck;out_arrival_station;1[0m
+[32m1;5;3rd Truck;out_updatet;0.2[0m
+[33m1;5;3rd Truck;; Truck : { Time Elapsed - 0.848768 hours , Location - 621, Weight: 166.268}[0m
+[32m1;6;4th Truck;out_updatel_truck;755[0m
+[32m1;6;4th Truck;out_updatew_truck;23.4481[0m
+[32m1;6;4th Truck;out_arrival_station;1[0m
+[32m1;6;4th Truck;out_updatet;0.2[0m
+[33m1;6;4th Truck;; Truck : { Time Elapsed - 0.13809 hours , Location - 376, Weight: 34.1063}[0m
+Completed pts : 104
+[32m1.2;1;Dynamic Routing System;out_new_route_1;262[0m
+[32m1.2;1;Dynamic Routing System;out_new_route_2;519[0m
+[32m1.2;1;Dynamic Routing System;out_new_route_3;325[0m
+[32m1.2;1;Dynamic Routing System;out_new_route_4;677[0m
+[33m1.2;1;Dynamic Routing System;;{ Completed routes : 535}[0m
+[33m1.2;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m1.2;3;1st Truck;out_updatel_truck;304[0m
+[32m1.2;3;1st Truck;out_updatew_truck;537.175[0m
+[32m1.2;3;1st Truck;out_arrival_station;1[0m
+[32m1.2;3;1st Truck;out_updatet;0.2[0m
+[33m1.2;3;1st Truck;; Truck : { Time Elapsed - 2.92662 hours , Location - 262, Weight: 552.014}[0m
+[32m1.2;4;2nd Truck;out_updatel_truck;706[0m
+[32m1.2;4;2nd Truck;out_updatew_truck;132.162[0m
+[32m1.2;4;2nd Truck;out_arrival_station;1[0m
+[32m1.2;4;2nd Truck;out_updatet;0.2[0m
+[33m1.2;4;2nd Truck;; Truck : { Time Elapsed - 0.854511 hours , Location - 519, Weight: 164.315}[0m
+[32m1.2;5;3rd Truck;out_updatel_truck;634[0m
+[32m1.2;5;3rd Truck;out_updatew_truck;166.268[0m
+[32m1.2;5;3rd Truck;out_arrival_station;1[0m
+[32m1.2;5;3rd Truck;out_updatet;0.2[0m
+[33m1.2;5;3rd Truck;; Truck : { Time Elapsed - 1.05134 hours , Location - 325, Weight: 200.894}[0m
+[32m1.2;6;4th Truck;out_updatel_truck;409[0m
+[32m1.2;6;4th Truck;out_updatew_truck;34.1063[0m
+[32m1.2;6;4th Truck;out_arrival_station;1[0m
+[32m1.2;6;4th Truck;out_updatet;0.2[0m
+[33m1.2;6;4th Truck;; Truck : { Time Elapsed - 0.650843 hours , Location - 677, Weight: 118.198}[0m
+Completed pts : 107
+[32m1.4;1;Dynamic Routing System;out_new_route_1;255[0m
+[32m1.4;1;Dynamic Routing System;out_new_route_2;284[0m
+[32m1.4;1;Dynamic Routing System;out_new_route_3;290[0m
+[32m1.4;1;Dynamic Routing System;out_new_route_4;104[0m
+[33m1.4;1;Dynamic Routing System;;{ Completed routes : 638}[0m
+[33m1.4;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m1.4;3;1st Truck;out_updatel_truck;275[0m
+[32m1.4;3;1st Truck;out_updatew_truck;552.014[0m
+[32m1.4;3;1st Truck;out_arrival_station;1[0m
+[32m1.4;3;1st Truck;out_updatet;0.2[0m
+[33m1.4;3;1st Truck;; Truck : { Time Elapsed - 3.13056 hours , Location - 255, Weight: 586.64}[0m
+[32m1.4;4;2nd Truck;out_updatel_truck;545[0m
+[32m1.4;4;2nd Truck;out_updatew_truck;164.315[0m
+[32m1.4;4;2nd Truck;out_arrival_station;1[0m
+[32m1.4;4;2nd Truck;out_updatet;0.2[0m
+[33m1.4;4;2nd Truck;; Truck : { Time Elapsed - 1.25958 hours , Location - 284, Weight: 231.093}[0m
+[32m1.4;5;3rd Truck;out_updatel_truck;342[0m
+[32m1.4;5;3rd Truck;out_updatew_truck;200.894[0m
+[32m1.4;5;3rd Truck;out_arrival_station;1[0m
+[32m1.4;5;3rd Truck;out_updatet;0.2[0m
+[33m1.4;5;3rd Truck;; Truck : { Time Elapsed - 1.31621 hours , Location - 290, Weight: 245.413}[0m
+[32m1.4;6;4th Truck;out_updatel_truck;693[0m
+[32m1.4;6;4th Truck;out_updatew_truck;118.198[0m
+[32m1.4;6;4th Truck;out_arrival_station;1[0m
+[32m1.4;6;4th Truck;out_updatet;0.2[0m
+[33m1.4;6;4th Truck;; Truck : { Time Elapsed - 0.900898 hours , Location - 104, Weight: 160.243}[0m
+Completed pts : 109
+[32m1.6;1;Dynamic Routing System;out_new_route_1;300[0m
+[32m1.6;1;Dynamic Routing System;out_new_route_2;105[0m
+[32m1.6;1;Dynamic Routing System;out_new_route_3;137[0m
+[32m1.6;1;Dynamic Routing System;out_new_route_4;132[0m
+[33m1.6;1;Dynamic Routing System;;{ Completed routes : 741}[0m
+[33m1.6;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m1.6;3;1st Truck;out_updatel_truck;268[0m
+[32m1.6;3;1st Truck;out_updatew_truck;586.64[0m
+[32m1.6;3;1st Truck;out_arrival_station;1[0m
+[32m1.6;3;1st Truck;out_updatet;0.2[0m
+[33m1.6;3;1st Truck;; Truck : { Time Elapsed - 3.33449 hours , Location - 300, Weight: 621.266}[0m
+[32m1.6;4;2nd Truck;out_updatel_truck;289[0m
+[32m1.6;4;2nd Truck;out_updatew_truck;231.093[0m
+[32m1.6;4;2nd Truck;out_arrival_station;1[0m
+[32m1.6;4;2nd Truck;out_updatet;0.2[0m
+[33m1.6;4;2nd Truck;; Truck : { Time Elapsed - 1.33859 hours , Location - 105, Weight: 245.933}[0m
+[32m1.6;5;3rd Truck;out_updatel_truck;293[0m
+[32m1.6;5;3rd Truck;out_updatew_truck;245.413[0m
+[32m1.6;5;3rd Truck;out_arrival_station;1[0m
+[32m1.6;5;3rd Truck;out_updatet;0.2[0m
+[33m1.6;5;3rd Truck;; Truck : { Time Elapsed - 1.36476 hours , Location - 137, Weight: 255.306}[0m
+[32m1.6;6;4th Truck;out_updatel_truck;104[0m
+[32m1.6;6;4th Truck;out_updatew_truck;160.243[0m
+[32m1.6;6;4th Truck;out_arrival_station;1[0m
+[32m1.6;6;4th Truck;out_updatet;0.2[0m
+[33m1.6;6;4th Truck;; Truck : { Time Elapsed - 0.902779 hours , Location - 132, Weight: 162.717}[0m
+Completed pts : 112
+[32m1.8;1;Dynamic Routing System;out_new_route_1;196[0m
+[32m1.8;1;Dynamic Routing System;out_new_route_2;138[0m
+[32m1.8;1;Dynamic Routing System;out_new_route_3;251[0m
+[32m1.8;1;Dynamic Routing System;out_new_route_4;154[0m
+[33m1.8;1;Dynamic Routing System;;{ Completed routes : 824}[0m
+[33m1.8;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m1.8;3;1st Truck;out_updatel_truck;307[0m
+[32m1.8;3;1st Truck;out_updatew_truck;621.266[0m
+[32m1.8;3;1st Truck;out_arrival_station;1[0m
+[32m1.8;3;1st Truck;out_updatet;0.2[0m
+[33m1.8;3;1st Truck;; Truck : { Time Elapsed - 3.44521 hours , Location - 196, Weight: 641.052}[0m
+[32m1.8;4;2nd Truck;out_updatel_truck;131[0m
+[32m1.8;4;2nd Truck;out_updatew_truck;245.933[0m
+[32m1.8;4;2nd Truck;out_arrival_station;1[0m
+[32m1.8;4;2nd Truck;out_updatet;0.2[0m
+[33m1.8;4;2nd Truck;; Truck : { Time Elapsed - 1.74181 hours , Location - 138, Weight: 312.711}[0m
+[32m1.8;5;3rd Truck;out_updatel_truck;142[0m
+[32m1.8;5;3rd Truck;out_updatew_truck;255.306[0m
+[32m1.8;5;3rd Truck;out_arrival_station;1[0m
+[32m1.8;5;3rd Truck;out_updatet;0.2[0m
+[33m1.8;5;3rd Truck;; Truck : { Time Elapsed - 1.44389 hours , Location - 251, Weight: 270.146}[0m
+[32m1.8;6;4th Truck;out_updatel_truck;137[0m
+[32m1.8;6;4th Truck;out_updatew_truck;162.717[0m
+[32m1.8;6;4th Truck;out_arrival_station;1[0m
+[32m1.8;6;4th Truck;out_updatet;0.2[0m
+[33m1.8;6;4th Truck;; Truck : { Time Elapsed - 0.981912 hours , Location - 154, Weight: 177.556}[0m
+Completed pts : 141
+[32m2;1;Dynamic Routing System;out_new_route_1;194[0m
+[32m2;1;Dynamic Routing System;out_new_route_2;161[0m
+[32m2;1;Dynamic Routing System;out_new_route_3;130[0m
+[32m2;1;Dynamic Routing System;out_new_route_4;166[0m
+[33m2;1;Dynamic Routing System;;{ Completed routes : 869}[0m
+[33m2;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m2;3;1st Truck;out_updatel_truck;232[0m
+[32m2;3;1st Truck;out_updatew_truck;641.052[0m
+[32m2;3;1st Truck;out_arrival_station;1[0m
+[32m2;3;1st Truck;out_updatet;0.2[0m
+[33m2;3;1st Truck;; Truck : { Time Elapsed - 4.00493 hours , Location - 194, Weight: 732.564}[0m
+[32m2;4;2nd Truck;out_updatel_truck;153[0m
+[32m2;4;2nd Truck;out_updatew_truck;312.711[0m
+[32m2;4;2nd Truck;out_arrival_station;1[0m
+[32m2;4;2nd Truck;out_updatet;0.2[0m
+[33m2;4;2nd Truck;; Truck : { Time Elapsed - 1.97569 hours , Location - 161, Weight: 352.284}[0m
+[32m2;5;3rd Truck;out_updatel_truck;264[0m
+[32m2;5;3rd Truck;out_updatew_truck;270.146[0m
+[32m2;5;3rd Truck;out_arrival_station;1[0m
+[32m2;5;3rd Truck;out_updatet;0.2[0m
+[33m2;5;3rd Truck;; Truck : { Time Elapsed - 1.64783 hours , Location - 130, Weight: 304.772}[0m
+[32m2;6;4th Truck;out_updatel_truck;160[0m
+[32m2;6;4th Truck;out_updatew_truck;177.556[0m
+[32m2;6;4th Truck;out_arrival_station;1[0m
+[32m2;6;4th Truck;out_updatet;0.2[0m
+[33m2;6;4th Truck;; Truck : { Time Elapsed - 1.07663 hours , Location - 166, Weight: 194.869}[0m
+Completed pts : 162
+[32m2.2;1;Dynamic Routing System;out_new_route_1;354[0m
+[32m2.2;1;Dynamic Routing System;out_new_route_2;203[0m
+[32m2.2;1;Dynamic Routing System;out_new_route_3;380[0m
+[32m2.2;1;Dynamic Routing System;out_new_route_4;226[0m
+[33m2.2;1;Dynamic Routing System;;{ Completed routes : 914}[0m
+[33m2.2;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m2.2;3;1st Truck;out_updatel_truck;230[0m
+[32m2.2;3;1st Truck;out_updatew_truck;732.564[0m
+[32m2.2;3;1st Truck;out_arrival_station;1[0m
+[32m2.2;3;1st Truck;out_updatet;0.2[0m
+[33m2.2;3;1st Truck;; Truck : { Time Elapsed - 4.56465 hours , Location - 354, Weight: 824.075}[0m
+[32m2.2;4;2nd Truck;out_updatel_truck;165[0m
+[32m2.2;4;2nd Truck;out_updatew_truck;352.284[0m
+[32m2.2;4;2nd Truck;out_arrival_station;1[0m
+[32m2.2;4;2nd Truck;out_updatet;0.2[0m
+[33m2.2;4;2nd Truck;; Truck : { Time Elapsed - 2.03953 hours , Location - 203, Weight: 364.65}[0m
+[32m2.2;5;3rd Truck;out_updatel_truck;156[0m
+[32m2.2;5;3rd Truck;out_updatew_truck;304.772[0m
+[32m2.2;5;3rd Truck;out_arrival_station;1[0m
+[32m2.2;5;3rd Truck;out_updatet;0.2[0m
+[33m2.2;5;3rd Truck;; Truck : { Time Elapsed - 2.05105 hours , Location - 380, Weight: 371.55}[0m
+[32m2.2;6;4th Truck;out_updatel_truck;202[0m
+[32m2.2;6;4th Truck;out_updatew_truck;194.869[0m
+[32m2.2;6;4th Truck;out_arrival_station;1[0m
+[32m2.2;6;4th Truck;out_updatet;0.2[0m
+[33m2.2;6;4th Truck;; Truck : { Time Elapsed - 1.63635 hours , Location - 226, Weight: 286.38}[0m
+Completed pts : 185
+[32m2.4;1;Dynamic Routing System;out_new_route_1;244[0m
+[32m2.4;1;Dynamic Routing System;out_new_route_2;373[0m
+[32m2.4;1;Dynamic Routing System;out_new_route_3;612[0m
+[32m2.4;1;Dynamic Routing System;out_new_route_4;765[0m
+[33m2.4;1;Dynamic Routing System;;{ Completed routes : 978}[0m
+[33m2.4;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[32m2.4;3;1st Truck;out_updatel_truck;387[0m
+[32m2.4;3;1st Truck;out_updatew_truck;824.075[0m
+[32m2.4;3;1st Truck;out_arrival_station;1[0m
+[32m2.4;3;1st Truck;out_updatet;0.2[0m
+[33m2.4;3;1st Truck;; Truck : { Time Elapsed - 5.0774 hours , Location - 244, Weight: 908.166}[0m
+[32m2.4;4;2nd Truck;out_updatel_truck;203[0m
+[32m2.4;4;2nd Truck;out_updatew_truck;364.65[0m
+[32m2.4;4;2nd Truck;out_arrival_station;1[0m
+[32m2.4;4;2nd Truck;out_updatet;0.2[0m
+[33m2.4;4;2nd Truck;; Truck : { Time Elapsed - 2.04141 hours , Location - 373, Weight: 367.123}[0m
+[32m2.4;5;3rd Truck;out_updatel_truck;399[0m
+[32m2.4;5;3rd Truck;out_updatew_truck;371.55[0m
+[32m2.4;5;3rd Truck;out_arrival_station;1[0m
+[32m2.4;5;3rd Truck;out_updatet;0.2[0m
+[33m2.4;5;3rd Truck;; Truck : { Time Elapsed - 2.34794 hours , Location - 612, Weight: 421.016}[0m
+[32m2.4;6;4th Truck;out_updatel_truck;243[0m
+[32m2.4;6;4th Truck;out_updatew_truck;286.38[0m
+[32m2.4;6;4th Truck;out_arrival_station;1[0m
+[32m2.4;6;4th Truck;out_updatet;0.2[0m
+[33m2.4;6;4th Truck;; Truck : { Time Elapsed - 1.90172 hours , Location - 765, Weight: 330.899}[0m
+[33m2.4;1;Dynamic Routing System;;{ Completed routes : 978}[0m
+[33m2.4;2;Transfer Station;;{Active Status of trucks :1,1,1,1}[0m
+[33m2.4;3;1st Truck;; Truck : { Time Elapsed - 5.0774 hours , Location - 244, Weight: 908.166}[0m
+[33m2.4;4;2nd Truck;; Truck : { Time Elapsed - 2.04141 hours , Location - 373, Weight: 367.123}[0m
+[33m2.4;5;3rd Truck;; Truck : { Time Elapsed - 2.34794 hours , Location - 612, Weight: 421.016}[0m
+[33m2.4;6;4th Truck;; Truck : { Time Elapsed - 1.90172 hours , Location - 765, Weight: 330.899}[0m
